@@ -15,3 +15,6 @@ This file contains the code only for infrared sensor
 
 ## ultrasonic_test 
 Using the code here you can test if your sensor is working properly or not. If there is any issues with the sensor you can determine which one of the 3 sensors is having issue using this file. 
+
+## debug
+Test sensor readings / movement inference
